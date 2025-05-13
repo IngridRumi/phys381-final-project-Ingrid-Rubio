@@ -1,1 +1,1 @@
-print("Starting PHYS 381 Final Project")
+Starting PHYS 381 Final Project
